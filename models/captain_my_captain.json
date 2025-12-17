@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "captain_my_captain",
+  "wake_word": "Captain my Captain",
   "author": "Markus Kaiser and Tater Totterson",
   "website": "https://github.com/mrksr/microWakeWords",
   "model": "captain_my_captain.tflite",
